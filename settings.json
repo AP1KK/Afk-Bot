@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "UltraSunSMP.aternos.me",
+    "port": 14157,
+    "version": "1.20.3"
   },
 
   "position": {
@@ -27,7 +27,7 @@
     "anti-afk": {
       "enabled": false,
       "sneak": false,
-      "jump": false,
+      "jump": true,
       "rotate": false,
 
       "hit": {
